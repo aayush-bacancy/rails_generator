@@ -5,4 +5,4 @@ Example:
     bin/rails generate view Thing
 
     This will create:
-        what/will/it/create
+        app/views/Thing/index.html.erb
